@@ -1,0 +1,65 @@
+/* 
+На странице должны быть использованы такие стили как (color, background-color, font-size, font-weight, font-family, text-align, border, border-radius) */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: cursive;
+    border: 12px solid blue;
+    border-radius: 50%;
+    text-shadow: 5px 5px 3px yellow
+}
+h2, h3{
+    
+    margin-top: 60px;
+    font-size: 40px;
+    font-weight: 300;
+}
+.container{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(6, 162, 167);
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+ul{
+    font-size: large;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-left: 30px;
+}
+li{
+    margin-bottom: 15px;
+}
+
+img{
+    border: 15px solid rgb(95, 76, 30);
+    border-radius: 10px;
+    width: 900px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+a{
+    color: rgb(205, 94, 25);
+    /* border: 5px solid yellow;
+    border-radius: 50%; */
+    font-family: cursive;
+    font-size:24px;
+    font-weight: 100;
+    
+}
+.description{
+    margin-bottom: 150px;
+}
+
+
+
